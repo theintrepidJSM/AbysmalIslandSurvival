@@ -5,6 +5,7 @@ AbyssalCraft: shadowfragments drop via ex nilho seive as well.
 Actually additions: make batwing recipe require extrautil2 glass cutter (want to avoid people flying until late game, post abyssalcraft) 
 Ars Magica 2: Disabled Flying spells
 Asteral Sorcery: Set structure gen to 250 chance
+Crafttweaker: Made Dragon egg craftable to play nice on servers.
 Custom Main Menu: Made custom main menu.
 Drop Anything: Make stone drop its self instead of cobble
 Ex Compressium: Disable compressed blocks and use Extra ultities compressed blocks instead
@@ -28,5 +29,4 @@ VeinMiner: 0.5 hunger per broken block
 VeinMiner: Allow anything to be used with vein miner (including player hand)
 VeinMiner: Limit veinminer to 25 blocks
 Waila: Disable showing contents of silverfish block (makes it so Sneaky Blocks can't be found easily) 
-Waystones: Can only be placed in creative
-Crafttweaker: Made Dragonegg craftable to play nice on servers.
+Waystones: Waystones can only be placed in creative
