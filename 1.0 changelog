@@ -13,20 +13,20 @@ extrautil2: made glass cutter hard to craft limiting most of op stuff to endgame
 JourneyMap: turn all polling and update features way down to increase fps perfomance.
 Mob Amputation: disable blood gore
 Mob Amputation: gibChance to 50 %
-Mob Amputation: Make any damge have a chance for gib
+Mob Amputation: Make any damage have a chance for gib
 Morpheus: default sleep percentage to 1%
 Packing tape: Set config to allow picking up mob spawners, (bug: will default to pig spawner)
 Pams HarvestCraft: Make all harvestcraft seeds drop from grass with a 5% chance 
 Quark: decorative chests craft back into vanilla oak chests via crafttweaker
 Quark: Disabled greener grass
-Recurrent Complex: Maed waystones as a structure so they spawn througout the world.
-Simple Achievments: Added Achievments
-Simple inventory starter: Add simple Achievments book as starting item.
+Recurrent Complex: Made waystones as a structure so they spawn throughout the world.
+Simple Achievements: Added Achievements
+Simple inventory starter: Add simple Achievements book as starting item.
 Special Ai: Disable creepers getting mad that they don't have arms.
 Tough as nails: Lifeblood crystals craftable with a nether star (give 9 crystals)
 Tree growing sim: tweaked growing speed to be faster
 VeinMiner: 0.5 hunger per broken block
 VeinMiner: Allow anything to be used with vein miner (including player hand)
 VeinMiner: Limit veinminer to 25 blocks
-Waila: Diabale showing contents of silverfish block (makes it so Sneaky Blocks can't be found easily) 
+Waila: Disable showing contents of silverfish block (makes it so Sneaky Blocks can't be found easily) 
 Waystones: Can only be placed in creative
