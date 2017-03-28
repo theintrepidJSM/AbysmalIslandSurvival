@@ -29,3 +29,4 @@ VeinMiner: Allow anything to be used with vein miner (including player hand)
 VeinMiner: Limit veinminer to 25 blocks
 Waila: Disable showing contents of silverfish block (makes it so Sneaky Blocks can't be found easily) 
 Waystones: Can only be placed in creative
+Crafttweaker: Made Dragonegg craftable to play nice on servers.
