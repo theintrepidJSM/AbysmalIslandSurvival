@@ -1,4 +1,5 @@
 Released pack as beta
+
 AbyssalCraft: abyssalnomicon can be duplicated by putting it and book in crafting table
 AbyssalCraft: Coralium orbs drop via ex nilho seive as well.
 AbyssalCraft: make oblivionshard craftable with redstone block and nether star.
@@ -12,6 +13,7 @@ Drop Anything: Make stone drop its self instead of cobble
 Ex Compressium: Disable compressed blocks and use Extra ultities compressed blocks instead
 extrautil2: glass cutter craftable using another class cutter, iron, and treated stick.
 extrautil2: made glass cutter hard to craft limiting most of op stuff to endgame (now requires septuple cobble and abyssalnomicon)
+Immersive engineering: Made Creative capacitor craftable
 JourneyMap: turn all polling and update features way down to increase fps perfomance.
 Mob Amputation: disable blood gore
 Mob Amputation: gibChance to 50 %
@@ -21,6 +23,7 @@ Packing tape: Set config to allow picking up mob spawners, (bug: will default to
 Quark: decorative chests craft back into vanilla oak chests via crafttweaker
 Quark: Disabled greener grass
 Recurrent Complex: Made waystones as a structure so they spawn throughout the world.
+Refined Storage: made creative item drive craftable
 Simple Achievements: Added Achievements
 Simple inventory starter: Add Actually Additons book as starting item.
 Simple inventory starter: Add Extra Utlities 2 book as starting item.
